@@ -1,0 +1,7 @@
+# Python 3.12
+torch
+torchvision
+numpy
+matplotlib
+scipy
+tqdm
